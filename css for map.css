@@ -1,0 +1,24 @@
+header{
+    background-color: blueviolet;
+    height: 50px;
+    width: 100%;
+    padding: 0.5%;
+    
+}
+.jpg{
+    height: 50px;
+    
+}
+.htext{
+    color: rgb(255, 255, 255);  
+}
+section{
+    margin-top: 5%;
+}
+.mapimg{
+    width: 40%;
+    float: right;
+}
+.mapjpg{
+    width: 100%;
+}
